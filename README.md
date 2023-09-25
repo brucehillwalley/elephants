@@ -1,3 +1,3 @@
 # elephants
 
-brucehillwalley.github.io/elephants/
+https://brucehillwalley.github.io/elephants/
